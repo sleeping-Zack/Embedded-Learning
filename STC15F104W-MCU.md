@@ -1,4 +1,4 @@
-![]([images\屏幕截图 2025-09-19 134842.png](https://raw.githubusercontent.com/sleeping-Zack/my-images/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-09-19%20134842.png))
+![](https://raw.githubusercontent.com/sleeping-Zack/my-images/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-09-19%20134842.png)
 
 ### 一.整体功能与电流流向:
 
